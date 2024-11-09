@@ -1,0 +1,2 @@
+# goParallelism
+Golang Paralellism Example
